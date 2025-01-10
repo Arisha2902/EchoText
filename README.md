@@ -11,7 +11,7 @@ A simple and interactive text-to-speech converter built with HTML, CSS, and Java
 
 ## How to Use
 
-1. Open `echo.html` in a web browser.
+1. Open `index.html` in a web browser.
 2. Enter text in the textarea.
 3. Select a voice from the dropdown.
 4. Click "Hear" to listen.
